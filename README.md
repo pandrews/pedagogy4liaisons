@@ -1,0 +1,2 @@
+# pedagogy4liaisons-untlibraries
+A digital annotated bibliography that contains resources for the subject librarians and liaisons at the UNT Libraries. The bibliography aims to provide librarians with resources to help them start: 1) exploring the connections between literacy, pedagogy, philosophy, and theory in librarianship; 2) exploring library pedagogies as well as pedagogies from other disciplines that compliment library work; and 3) exploring strategic ways to engage with faculty and instructional designers. 
