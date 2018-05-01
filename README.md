@@ -1,8 +1,7 @@
 # pedagogy4liaisons-untlibraries
 A digital annotated bibliography that contains resources for the subject librarians and liaisons at the UNT Libraries. 
 
-## _Pedagogy for Liaisons:_
-## _Resources for the subject Librarians and Liaisons at the UNT Libraries_
+## _Pedagogy for Liaisons: Resources for the subject Librarians and Liaisons at the UNT Libraries_
 
 ### Introduction: About the Project and Intended Uses
 >This repository is a digtal copy of an annotaed bibliography produced for the UNT Libraries' Liaison Workgroup. This digital platform allows for collaboration between the UNT liaisons to produce a list of resources for self-directed learning in pedagogy and theory in librarianship that may inform librarianship practices at the UNT Libraries.
