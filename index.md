@@ -16,4 +16,4 @@ Materials in this digital annotated bibliopgrahy are linked to the catalog and d
 
 _Each year a .pdf version is archived in the [UNT Scholarly Works Repository](/https://digital.library.unt.edu/explore/collections/UNTSW/)._
 
-Updated July 20, 2018.
+
