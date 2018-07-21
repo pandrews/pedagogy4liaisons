@@ -15,3 +15,5 @@ This annotated bibliography is not exhaustive. Liaisons are encouraged to add to
 Materials in this digital annotated bibliopgrahy are linked to the catalog and database holdings at the UNT Libraries. Those materials currently unavailable in the catalog can be requested for purchased and are marked thusly. New items should be sent to the complier for purchase. 
 
 _Each year a .pdf version is archived in the [UNT Scholarly Works Repository](/https://digital.library.unt.edu/explore/collections/UNTSW/)._
+
+Updated July 20, 2018.
