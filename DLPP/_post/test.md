@@ -1,6 +1,6 @@
 ---
 layout: post
-cataegory: CIA
+category: CIA
 title: Comprehensive and Intensive Anthologies
 date: 2018-07-19 11:50
 ---
