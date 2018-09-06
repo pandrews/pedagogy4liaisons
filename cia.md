@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Comprehensive Intensive Anthologies
+title: CIA
 category: cia
+tagline: Comprehensive Intensive Anthologies
+permalink: /cia.html
 ---
 <div>
 
