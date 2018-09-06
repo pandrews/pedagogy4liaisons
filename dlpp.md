@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comprehensive Intensive Anthologies
-category: cia
+title: Discovering Literacies, Pedagogy, and Philosophies 
+category: dlpp
 ---
 <div>
 
