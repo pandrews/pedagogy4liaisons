@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # pedagogy4liaisons
 A digital annotated bibliography that contains resources for the subject librarians and liaisons at the UNT Libraries. 
 
