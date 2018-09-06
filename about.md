@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: About This Project
+tagline: pedagogy4liaisons
 permalink: /about.html
 ---
 
