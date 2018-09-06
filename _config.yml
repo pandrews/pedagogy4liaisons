@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-permalink: /:category/:year/:title/
+permalink: pretty
 title: pedagogy4liaisons
 description: A digital annotated bibliography.
