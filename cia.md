@@ -27,6 +27,4 @@ category: cia
       </li>
     {% endif %}
     {% endfor %}
-  </ul>
 
-</div>
