@@ -5,8 +5,6 @@ category: cia
 ---
 <div>
 
-  {{ content }}
-
   <h2>Latest Entries</h2>
 
   <div>&nbsp;</div>
