@@ -1,7 +1,6 @@
 ---
 layout: post
 category: CIA
-permalink: cia-index.md
 title: Comprehensive and Intensive Anthologies
 date: 2018-07-19 12:06
 ---
