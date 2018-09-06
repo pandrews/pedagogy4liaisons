@@ -1,6 +1,8 @@
 ---
 layout: page
 title: about
+tagline: About This Project
+permalink: /about.html
 ---
 
 # pedagogy4liaisons
