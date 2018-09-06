@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Discovering Literacies, Pedagogy, and Philosophies 
+title: DLPP
 category: dlpp
+tagline: Discovering Literacies, Pedagogy, and Philosophies 
+permalink: /dlpp.html
 ---
 <div>
 
