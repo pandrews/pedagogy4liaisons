@@ -4,12 +4,9 @@ title: Comprehensive Intensive Anthologies
 category: CIA
 ---
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
+
+    {% for post in site.category.CIA %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {{ post.excerpt }}
     {% endfor %}
-  </ul>
-{% endfor %}
+
