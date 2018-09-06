@@ -1,17 +1,12 @@
 
 ---
 layout: default
-title: DLPP
+title: Digital Literacies, Pedagogy, and Philosophy Entries
 category: DLPP
 ---
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+
+    {% for post in site.categories.DLPP %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {{ post.excerpt }}
+    {% endfor %}
