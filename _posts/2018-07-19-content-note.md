@@ -1,6 +1,6 @@
 ---
 layout: default
-category: CIA
+category: DLPP
 title: Comprehensive and Intensive Anthologies
 date: 2018-07-19 12:06
 ---
