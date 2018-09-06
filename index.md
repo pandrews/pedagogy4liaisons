@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-Something something
+{% comment %}
+{% endcomment %}
