@@ -3,7 +3,7 @@ layout: page
 title: CIA
 category: cia
 tagline: Comprehensive Intensive Anthologies
-permalink: /cia.html
+permalink: /blog.html
 ---
 <div>
 
@@ -13,7 +13,6 @@ permalink: /cia.html
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains "cia" %}
 
       <li>
 
