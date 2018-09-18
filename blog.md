@@ -1,8 +1,7 @@
 ---
 layout: page
-title: CIA
-category: cia
-tagline: Comprehensive Intensive Anthologies
+title: Annotated Bibliography
+tagline: Annotated Bibliography
 permalink: /blog.html
 ---
 <div>
