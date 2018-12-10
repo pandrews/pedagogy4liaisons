@@ -1,5 +1,0 @@
----
-layout: home
----
-{% comment %}
-{% endcomment %}
