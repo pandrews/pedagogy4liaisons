@@ -11,7 +11,6 @@ In this section, you will find articles and books that introduce and combine lit
  
  
 **Allan, Barbara. 2016. Emerging Strategies for Supporting Student Learning: A practical Guide for Librarians and Educators. London: Facet Publishing.** 
-
 [https://iii.library.unt.edu/record=b5762493~S12](https://iii.library.unt.edu/record=b5762493~S12). 
  
  
