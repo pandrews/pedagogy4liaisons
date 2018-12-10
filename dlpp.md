@@ -13,13 +13,13 @@ In this section, you will find articles and books that introduce and combine lit
 **Allan, Barbara. 2016. Emerging Strategies for Supporting Student Learning: A practical Guide for Librarians and Educators. London: Facet Publishing.** [https://iii.library.unt.edu/record=b5762493~S12](https://iii.library.unt.edu/record=b5762493~S12). 
  
  
-    Allan presents a variety of different theories, teaching approaches, and learning styles that are shaping the “current higher education landscape.” She examines how these facets can be used within the library to enhance information instruction. Her aim is to present this information in a way that assists librarians with “designing, developing, and evaluating” their courses and teaching methods to impact student learning. 
+Allan presents a variety of different theories, teaching approaches, and learning styles that are shaping the “current higher education landscape.” She examines how these facets can be used within the library to enhance information instruction. Her aim is to present this information in a way that assists librarians with “designing, developing, and evaluating” their courses and teaching methods to impact student learning. 
  
  
 **Anderson, Karen and Frances A. May.  2010."Does the Method of Instruction Matter? An Experimental Examination of Information Literacy in the Online, Blended, and Face-to-Face Classrooms." The Journal of Academic Librarianship 36, no.6: 495-500. https://doi.org/10.1016/j.acalib.2010.08.005.**  
  
  
-    Anderson and May present their field research on the “effectiveness of delivery methods in information literacy instruction.” The authors explore face-to-face, online, and blended learning instructional formats to discover which method(s) impact “students’ retention of information literacy skills.” Their results aim to support an “inclusive model of information literacy.”
+fAnderson and May present their field research on the “effectiveness of delivery methods in information literacy instruction.” The authors explore face-to-face, online, and blended learning instructional formats to discover which method(s) impact “students’ retention of information literacy skills.” Their results aim to support an “inclusive model of information literacy.”
 
 
 Bent. Pending
