@@ -1,7 +1,7 @@
 
 ---
 layout: page
-titel: dlpp
+title: dlpp
 tagline: pedagogy4liaisons
 permalink: /dlpp.html
 ---
