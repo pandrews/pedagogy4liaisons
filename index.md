@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: home
 title: About
 tagline: pedagogy4liaisons
-permalink: /about.html
 ---
 
 # pedagogy4liaisons
