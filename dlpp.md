@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dlpp
+title: Discovering Literacies, Pedagogy, and Philosophy
 tagline: pedagogy4liaisons
 permalink: /dlpp.html
 ---
